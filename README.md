@@ -8,12 +8,10 @@ Estou sempre buscando aprender coisas novas e participar de projetos interessant
 * Ferramentas WEB e UX
 * Sistemas Operacionais
 * Fundamentos da programação
-* Projeto - Projeto Seguidor de linha
 * Rede de computadores
 * Requisitos Modelagem e Análise de Dados
 * Arquitetura de Software
 * Programação Orientada a Objetos
-* Projeto - Robo Labirinto
 * Linguagens HTML, CSS, JS, Java, Python, C ANSI.
  
 ### Projetos em destaque:
