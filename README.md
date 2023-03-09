@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá, eu sou [Ruan Cardozo]!
 
-<!--
-**ruan-cardozo/ruan-cardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de engenharia de software e tenho interesse em desenvolvimento web, desenvolvimento de aplicativos móveis, inteligência artificial, na área de teste de software. Atualmente estou fazendo a faculdade e mais cursos onlines voltando para Java e Python, MySQL.
 
-Here are some ideas to get you started:
+Estou sempre buscando aprender coisas novas e participar de projetos interessantes para aprimorar minhas habilidades em programação e engenharia de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas habilidades incluem:
+* Ferramentas WEB e UX
+* Sistemas Operacionais
+* Fundamentos da programação
+* Projeto - Projeto Seguidor de linha
+* Rede de computadores
+* Requisitos Modelagem e Análise de Dados
+* Arquitetura de Software
+* Programação Orientada a Objetos
+* Projeto - Robo Labirinto
+* Linguagens HTML, CSS, JS, Java, Python, C ANSI.
+ 
+### Projetos em destaque:
+
+Projeto - Robo Labirinto
+Projeto - Projeto Seguidor de linha
+
+### Como me encontrar:
+
+- https://www.linkedin.com/in/ruan-diego-velloso-cardozo
+- https://github.com/ruan-cardozo
+
+Estou animado para me conectar com outras pessoas interessadas em engenharia de software e aprender mais sobre a área. Se você tiver alguma dica para me dar ou quiser bater um papo sobre desenvolvimento de software, fique à vontade para entrar em contato comigo!
