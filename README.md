@@ -1,6 +1,6 @@
 ## Olá, eu sou Ruan Cardozo
 
-Sou estudante de engenharia de software e tenho interesse em desenvolvimento web, desenvolvimento de aplicativos móveis, inteligência artificial, na área de teste de software. Atualmente estou fazendo a faculdade e mais cursos onlines voltando para Java e Python, MySQL.
+Sou estudante de engenharia de software e tenho interesse em desenvolvimento web, desenvolvimento de aplicativos móveis, inteligência artificial, na área de teste de software. 
 
 Estou sempre buscando aprender coisas novas e participar de projetos interessantes para aprimorar minhas habilidades em programação e engenharia de software.
 
