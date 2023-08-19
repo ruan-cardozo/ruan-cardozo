@@ -5,4 +5,4 @@ I'm a dedicated Software Engineering student on a mission to excel in the realm 
 Software Engineering Student: Devoted to mastering the intricacies of the software development landscape.
 @Sofit Software: Actively engaged in Software Testing and QA, working towards refining software quality.
 ## Technologies ##
-https://img.shields.io/github/languages/count/code/Java
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ruan-cardozo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
