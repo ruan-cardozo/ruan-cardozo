@@ -2,7 +2,29 @@
 ## About me ##
 I'm a dedicated Software Engineering student on a mission to excel in the realm of software development. My journey has led me to @Sofit Software, where I actively contribute to Software Testing and Quality Assurance (QA) processes. I thrive on enhancing my skills across diverse facets of software engineering.
 ## Current Focus ##
-Software Engineering Student: Devoted to mastering the intricacies of the software development landscape.
-@Sofit Software: Actively engaged in Software Testing and QA, working towards refining software quality.
+* Software Engineering Student: Devoted to mastering the intricacies of the software development landscape.
+* @Sofit Software: Actively engaged in Software Testing and QA, working towards refining software quality.
 ## Technologies ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiruan-cardozoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ruan-cardozo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ruan-cardozo&show_icons=true&theme=transparent&&hide=prs,contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruan-cardozo&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+## Journey of Growth ##
+
+My path is a continuous quest for improvement within the dynamic tech landscape. I'm actively honing my skills in Software Testing and Quality, employing Java for automation and leveraging CTFL to grasp the fundamental principles. On the front-end front, I'm delving into the intricacies of HTML, CSS, and JavaScript to craft seamless user experiences.
+
+Taking a broader perspective, I'm immersing myself in the world of Linux while acquainting myself with the potent combination of Node.js and TypeScript for backend development. Additionally, my exploration extends to the realm of databases, as I strive to comprehend their inner workings and significance.
+
+I'm dedicated to enhancing my advanced English to communicate better and build connections beyond borders.
+
+
+
+## Languages ##
+* Native Portuguese
+* Advanced English
+
+## Get in Touch ##
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/ruan-diego-velloso-cardozo/) to explore collaboration opportunities, projects, or simply to share insights and ideas!
