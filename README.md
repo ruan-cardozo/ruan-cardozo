@@ -6,10 +6,10 @@ I'm a dedicated Software Engineering student on a mission to excel in the realm 
 * @Sofit Software: Actively engaged in Software Testing and QA, working towards refining software quality.
 ## Technologies ##
 <a href="https://github.com/ruan-cardozo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ruan-cardozo&show_icons=true&theme=transparent&&hide=prs,contribs" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ruan-cardozo&show_icons=true&theme=transparent&&hide=prs,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruan-cardozo&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruan-cardozo&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Journey of Growth ##
